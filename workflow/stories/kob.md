@@ -46,12 +46,13 @@ The following subjects are participants in the story:
 - Association of CBSE schools: Kerala CBSE School Management Association (Kochi Chapter)
 - Association of Driving Schools
 - Residential Associations
+- 
 
 ### User Stories
 
 Some of the possible use cases are given below,
 
-1. **Verification services**
+1. **Verification services for citizens of Kochi**
 
     Some of the verification services are,
 
@@ -172,7 +173,7 @@ Examples of digital service providers are,
 A simplified governance framework was derived from [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model and tailored to fit the needs of our utilty. The KOBPIU networks are run with a very similar governance and structure as what the Sovrin Networks were based on, except that the network will be built for a specific jurisdiction. All documents are open source, and it will be operated as a public decentralized network. 
 
 * Will be using Linux Foundation as the open source project models.
-* Will be using Hyperledger Indy as the ledger technology.
+* Will use Hyperledger Indy as the ledger technology.
 * Will begin by building a TestNet, then a production network and finally a demonstration network as more and more Node Operators come onboard.
 
 ### Create
